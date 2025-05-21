@@ -40,7 +40,7 @@ const App = () => {
           </div>
         </div>
         <div className="image-section">
-          <img src={coding} alt="person" />
+          <img src={person} alt="person" />
         </div>
       </main>
     </div>

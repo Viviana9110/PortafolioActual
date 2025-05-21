@@ -4,6 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 import todolist from "./assets/todolist.png";
 import vet from "./assets/vet.png";
 import carrito from "./assets/carrito.png";
+import twitter from "./assets/twitter.png";
 
 const projects = [
   {
@@ -22,11 +23,19 @@ const projects = [
   },
   {
     id: 3,
-    title: "Carrito de compras",
+    title: "FullStack Grocery Delivery Website",
     category: "",
     image: carrito,
-    url: "https://unrivaled-truffle-6e8631.netlify.app/"
+    url: "https://green-cart-eight-sigma.vercel.app/"
   },
+  {
+    id: 4,
+    title: "Clon de twitter",
+    category: "",
+    image: twitter,
+    url: "https://twitter-0vcj.onrender.com/login"
+  },
+  
   
 ];
 

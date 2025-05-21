@@ -96,8 +96,8 @@ p {
 }
 
 .image-section img {
-  max-width: 250px;
-  border-radius: 10%;
+  max-width: 350px;
+  border-radius: 50%;
 }
 
 /* Responsive Styles */
@@ -114,7 +114,7 @@ p {
   }
 
   .image-section img {
-    max-width: 200px; /* Smaller image for smaller screens */
+    max-width: 250px; /* Smaller image for smaller screens */
   }
 }
 
