@@ -33,7 +33,7 @@ const projects = [
     title: "Sistema Reservas de Hotel",
     category: "",
     image: booking,
-    url: "https://vercel.com/viviana9110s-projects/booking/5j4ugVRzjt38Tq7JRdf5JgXNBnGh"
+    url: "https://booking-puce-two.vercel.app/"
   },
   
   
