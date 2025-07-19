@@ -4,7 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 import todolist from "./assets/todolist.png";
 import vet from "./assets/vet.png";
 import carrito from "./assets/carrito.png";
-import twitter from "./assets/twitter.png";
+import booking from "./assets/booking.png";
 
 const projects = [
   {
@@ -30,10 +30,10 @@ const projects = [
   },
   {
     id: 4,
-    title: "Clon de twitter",
+    title: "Sistema Reservas de Hotel",
     category: "",
-    image: twitter,
-    url: "https://twitter-0vcj.onrender.com/login"
+    image: "",
+    url: "https://vercel.com/viviana9110s-projects/booking/5j4ugVRzjt38Tq7JRdf5JgXNBnGh"
   },
   
   
