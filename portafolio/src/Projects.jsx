@@ -1,31 +1,30 @@
 import React from "react";
 import "./Projects.css";
 import { FaArrowRight } from "react-icons/fa";
-import todolist from "./assets/todolist.png";
-import vet from "./assets/vet.png";
+import chat from "./assets/chat.png";
 import carrito from "./assets/carrito.png";
 import booking from "./assets/booking.png";
 
 const projects = [
   {
     id: 1,
-    title: "To-Do List",
+    title: "Eccomerce tienda de abarrotes",
     category: "",
-    image: todolist,
-    url: "https://zippy-starship-c62942.netlify.app/"
+    image: carrito,
+    url: "https://green-cart-eight-sigma.vercel.app/"
   },
   {
     id: 2,
-    title: "Seguimiento de pacientes de veterinaria",
+    title: "Sistema Reservas de Hotel",
     category: "",
-    image: vet,
-    url:"https://whimsical-creponne-2c2ee0.netlify.app/"
+    image: booking,
+    url:"https://booking-puce-two.vercel.app/"
   },
   {
     id: 3,
-    title: "FullStack Grocery Delivery Website",
+    title: "Aplicación de Chat en tiempo real",
     category: "",
-    image: carrito,
+    image: chat,
     url: "https://green-cart-eight-sigma.vercel.app/"
   },
   {
