@@ -4,6 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 import chat from "./assets/chat.png";
 import carrito from "./assets/carrito.png";
 import booking from "./assets/booking.png";
+import elevatex from "./assets/elevate.png"
 
 const projects = [
   {
@@ -25,14 +26,14 @@ const projects = [
     title: "Aplicación de Chat en tiempo real",
     category: "",
     image: chat,
-    url: "https://green-cart-eight-sigma.vercel.app/"
+    url: "https://chat-websocket-seven.vercel.app/login"
   },
   {
     id: 4,
-    title: "Sistema Reservas de Hotel",
+    title: "Sitio Web Agencia de publicidad Elevate X",
     category: "",
-    image: booking,
-    url: "https://booking-puce-two.vercel.app/"
+    image: elevatex ,
+    url: "https://elevate-x-puce.vercel.app/"
   },
   
   
