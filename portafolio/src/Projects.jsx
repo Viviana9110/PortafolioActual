@@ -16,7 +16,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Sistema Reservas de Hotel",
+    title: "Sistema Reservas de viajes",
     category: "",
     image: booking,
     url:"https://reservas-viajes-hoteles-front.vercel.app/"
