@@ -38,7 +38,7 @@ const projects = [
     id: 4,
     title: "Agencia de publicidad Elevate X",
     description: "Landing page moderna para agencia de publicidad.",
-    technologies: ["HTML", "CSS", "Bootstrap", "Javascript"],
+    technologies: ["HTML", "Bootstrap", "Javascript"],
     image: elevatex,
     url: "https://elevate-x-puce.vercel.app/",
     github: "https://github.com/Viviana9110/elevateX"
