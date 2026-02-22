@@ -5,10 +5,20 @@ import chat from "./assets/chat.png";
 import carrito from "./assets/carrito.png";
 import booking from "./assets/booking.png";
 import elevatex from "./assets/elevate.png";
+import fit from "./assets/fit.png";
 
 const projects = [
   {
     id: 1,
+    title: "Fitness Track",
+    description: "Aplicación para el conteo de calorias consumidas",
+    technologies: ["ReactJS", "TailwindCSS", "TypeScript"],
+    image: fit,
+    url: "https://fitness-track-iota.vercel.app/",
+    github: "https://github.com/Viviana9110/fitness-track"
+  },
+  {
+    id: 2,
     title: "Ecommerce tienda de abarrotes",
     description: "Carrito de compras con React y EmailJS para envío de pedidos.",
     technologies: ["ReactJS", "TailwindCSS", "Nodemailer"],
@@ -17,7 +27,7 @@ const projects = [
     github: "https://github.com/Viviana9110/GreenCart"
   },
   {
-    id: 2,
+    id: 3,
     title: "Sistema Reservas de viajes",
     description: "App para reserva de paquetes turísticos y habitaciones de hotel con confirmación por email",
     technologies: ["ReactJS", "Node.js", "MongoDB"],
@@ -26,7 +36,7 @@ const projects = [
     github: "https://github.com/Viviana9110/Reservas_viajes_hoteles"
   },
   {
-    id: 3,
+    id: 4,
     title: "Aplicación de Chat en tiempo real",
     description: "Chat con WebSocket y Redis para usuarios conectados.",
     technologies: ["ReactJS", "WebSocket", "Redis"],
@@ -35,7 +45,7 @@ const projects = [
     github: "https://github.com/Viviana9110/chat-websocket"
   },
   {
-    id: 4,
+    id: 5,
     title: "Agencia de publicidad Elevate X",
     description: "Landing page moderna para agencia de publicidad.",
     technologies: ["HTML", "Bootstrap", "Javascript"],

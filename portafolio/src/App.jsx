@@ -7,10 +7,8 @@ import Projects from "./Projects";
 import Footer from "./Footer";
 
 import person from "./assets/person.png";
-import employee from "./assets/employee.png";
-import counseling from "./assets/counseling.png";
-import coding from "./assets/coding.png";
-import data from "./assets/data.png";
+import fit from "./assets/fit.png";
+
 const App = () => {
   return (
     <>
